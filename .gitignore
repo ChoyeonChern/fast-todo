@@ -25,7 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+.idea
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 /.idea/misc.xml
 /.idea/.gitignore
+/.idea/inspectionProfiles/Project_Default.xml
